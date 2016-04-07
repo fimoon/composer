@@ -1,5 +1,5 @@
 {
-    "name": "ganji/composer",
+    "name": "baixing/composer",
     "type": "library",
     "description": "for vendor",
     "keywords": ["log","logging"],
