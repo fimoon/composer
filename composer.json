@@ -1,5 +1,5 @@
 {
-    "name": "null/composer",
+    "name": ".gitkeep/composer",
     "type": "library",
     "description": "for vendor",
     "keywords": ["log","logging"],
