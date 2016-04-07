@@ -1,5 +1,5 @@
 {
-    "name": "init/composer2",
+    "name": "service/composer2",
     "type": "library",
     "description": "for vendor",
     "keywords": ["log","logging"],
