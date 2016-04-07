@@ -1,5 +1,5 @@
 {
-    "name": "functions/composer2",
+    "name": "mixin/composer2",
     "type": "library",
     "description": "for vendor",
     "keywords": ["log","logging"],
