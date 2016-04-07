@@ -1,5 +1,5 @@
 {
-    "name": "linux/composer",
+    "name": "null/composer",
     "type": "library",
     "description": "for vendor",
     "keywords": ["log","logging"],
