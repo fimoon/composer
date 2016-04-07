@@ -1,5 +1,5 @@
 {
-    "name": "vendor/composer",
+    "name": "fimoon/composer",
     "type": "library",
     "description": "for vendor",
     "keywords": ["log","logging"],
