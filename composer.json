@@ -1,0 +1,23 @@
+{
+    "name": "linux/composer",
+    "type": "library",
+    "description": "for vendor",
+    "keywords": ["log","logging"],
+    "homepage": "https://github.com/Seldaek/monolog",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fimoon",
+            "email": "fimoon89@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Composer": "src"
+        }
+    }
+}
