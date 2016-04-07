@@ -1,5 +1,5 @@
 {
-    "name": "baidu/composer2",
+    "name": "taobao/composer2",
     "type": "library",
     "description": "for vendor",
     "keywords": ["log","logging"],
