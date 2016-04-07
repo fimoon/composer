@@ -1,5 +1,5 @@
 {
-    "name": "taobao/composer2",
+    "name": "include/composer2",
     "type": "library",
     "description": "for vendor",
     "keywords": ["log","logging"],
