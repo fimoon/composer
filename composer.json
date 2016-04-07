@@ -1,5 +1,5 @@
 {
-    "name": "include/composer2",
+    "name": "functions/composer2",
     "type": "library",
     "description": "for vendor",
     "keywords": ["log","logging"],
